@@ -8,7 +8,7 @@
 
 
 
-<details>Resposta<br>
+<details>Resposta
 
    ➝ Página Inicial -  Débora <br>
    ➝ Página de  Contatos - Maria Alice <br>
