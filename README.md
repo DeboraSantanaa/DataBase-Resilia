@@ -37,7 +37,7 @@ Matricula, Disciplinas,Sala, Turma e Professor.
 
 
 ## ❋ Extras
- Criar o banco de dados proposto e adicionar a uma pasta chamada SQL com os arquivos.
+➥ Criar o banco de dados proposto e adicionar a uma pasta chamada SQL com os arquivos.
  
  
 ## ❋ Modelo do Banco de Dados.
