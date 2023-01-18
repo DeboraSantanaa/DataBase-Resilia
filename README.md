@@ -13,7 +13,6 @@ e responder algumas perguntas com nosso modelo:
 ➥ Como essas entidades estão relacionadas? <br>
 
 
-______________________________________________
 
 ## Respostas
 
