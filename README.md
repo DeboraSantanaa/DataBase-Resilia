@@ -25,10 +25,10 @@ Matricula, Disciplinas,Sala, Turma e Professor.
 
 ### Quais são os principais campos e tipos?
 
-2. id_matricula, id_aluno, id_curso , id_professor sao do tipo Int PK
- "nome"   tipo:Varchar(20).
- "data de inicio curso"  tipo : DATE
- "id"  tipo: INT
+2. id_matricula, id_aluno, id_curso , id_professor  <br>
+ "nome"   tipo:Varchar(20) <br>
+ "data de inicio curso"  tipo : DATE <br>
+ "id"  tipo: INT PK <br>
  
 
 ### Como essas entidades estão relacionadas?
