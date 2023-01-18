@@ -12,7 +12,10 @@ e responder algumas perguntas com nosso modelo:
 ➥ Quais são os principais campos e tipos?
 ➥ Como essas entidades estão relacionadas?
 
-## Respostas.
+
+______________________________________________
+
+## Respostas
 
 ### Existem outras entidades além dessas três?
 
