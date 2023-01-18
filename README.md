@@ -35,10 +35,11 @@ Matricula, Disciplinas,Sala, Turma e Professor.
 
 3.
 
-<br>
+
 ## ❋ Extras
  Criar o banco de dados proposto e adicionar a uma pasta chamada SQL com os arquivos.
-<br>
+ 
+ 
 ## ❋ Modelo do Banco de Dados.
 
 ![DataBase](https://user-images.githubusercontent.com/113525688/213037984-65d221f1-ddbd-40e3-a08d-a7106d3070df.jpeg)
