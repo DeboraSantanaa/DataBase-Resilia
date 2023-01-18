@@ -1,9 +1,7 @@
 # Sistema_Resilia 👩🏼‍💻
 
-## Proposta do projeto
-
-
-# Modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
+## Proposta do projeto:
+ Modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 
 
