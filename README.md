@@ -8,8 +8,8 @@
 
 
 
-<details>Resposta<sumary><br>
-  </sumary>
+<details>Resposta<br>
+
    ➝ Página Inicial -  Débora <br>
    ➝ Página de  Contatos - Maria Alice <br>
    ➝ Página de Serviços - Ana Beatriz  <br>
