@@ -1,6 +1,6 @@
 # Sistema_Resilia 👩🏼‍💻
 
-## ✳ 	`#RRGGBB` Proposta do projeto <br>
+## ✳ 	color:`#RRGGBB` Proposta do projeto <br>
 ➥ A Resilia está pensando em lançar um novo sistema de
 acompanhamento e para isso precisa de ajuda para modelar um
 banco de dados que vai armazenar seus cursos, turmas e alunos.
@@ -17,7 +17,7 @@ e responder algumas perguntas com nosso modelo: <br>
 
 ### ✳ Respostas
 
-### typewriter Existem outras entidades além dessas três?
+###  Existem outras entidades além dessas três?
 
 1. Sim foi adicionado entidades relacionadas a um sistema de Banco de Dados para uma instituição de ensino, sendo elas: 
 Matricula, Disciplinas,Sala, Turma e Professor.
