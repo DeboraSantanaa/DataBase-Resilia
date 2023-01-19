@@ -55,3 +55,5 @@ Relação entre turma e disciplina (N:1) <br>
 
 
  ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge)
+ 
+ <a href="https://www.linkedin.com/in/debora-santana-7959141a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
