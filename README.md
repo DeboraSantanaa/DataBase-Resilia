@@ -33,7 +33,13 @@ Matricula, Disciplinas,Sala, Turma e Professor.
 
 ### Como essas entidades estão relacionadas?
 
-3.
+3. Relação entre turma e aluno (N:M)
+Relação entre professor e turma (N:M)
+Relação entre turma e sala (1:1)
+Relação entre aluno e curso (N:M)
+Relação entre curso e disciplina (1:N)
+Relação entre turma e disciplina (N:1)
+
 
 
 ## ✳ Extras
