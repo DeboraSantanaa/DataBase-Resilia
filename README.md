@@ -46,7 +46,7 @@ Relação entre turma e disciplina (N:1) <br>
 ➥ Criar o banco de dados proposto e adicionar uma pasta chamada SQL com os arquivos.
  
  
- ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20Finalizado&color=GREEN&style=for-the-badge)
+ ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge)
  
 ## ✳ Modelo do Banco de Dados.
 
