@@ -17,7 +17,7 @@ e responder algumas perguntas com nosso modelo: <br>
 
 ### ✳ Respostas
 
-### Existem outras entidades além dessas três?
+### typewriter Existem outras entidades além dessas três?
 
 1. Sim foi adicionado entidades relacionadas a um sistema de Banco de Dados para uma instituição de ensino, sendo elas: 
 Matricula, Disciplinas,Sala, Turma e Professor.
@@ -31,6 +31,20 @@ Matricula, Disciplinas,Sala, Turma e Professor.
  "id"  tipo: INT PK <br>
  
 
+var string = "Javascript Typing Animation"; /* type your text here */
+var array = string.split("");
+var timer;
+
+function frameLooper () {
+  if (array.length > 0) {
+    document.getElementById("text").innerHTML += array.shift();
+  } else {
+    clearTimeout(timer);
+      }
+  loopTimer = setTimeout('frameLooper()',70); /* change 70 for speed */
+
+}
+frameLooper();
 ### Como essas entidades estão relacionadas?
 
 3. Relação entre turma e aluno (N:N) <br>
