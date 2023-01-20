@@ -1,4 +1,4 @@
-<h1 align="center" color:"red"># Sistema_Resilia 👩🏼‍💻</h1>
+<h1 align="center" background-color:"red"># Sistema_Resilia 👩🏼‍💻</h1>
 
 ## ✳  Proposta do projeto <br>
 ➥ A Resilia está pensando em lançar um novo sistema de
